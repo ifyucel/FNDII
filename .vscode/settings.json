@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\ifyuc\\anaconda3\\python.exe",
+    "python.autoComplete.extraPaths": ["./path-to-your-code"]
+}
